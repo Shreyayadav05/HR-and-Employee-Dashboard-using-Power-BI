@@ -52,7 +52,6 @@ To transform raw HR data into actionable insights and identify key factors influ
 ## 📂 Project Files
 - HR Dashboard (Power BI)
 - Employee Dashboard
-- Project Report (PDF)
 
 ---
 
